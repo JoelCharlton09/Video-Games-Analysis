@@ -1,1 +1,3 @@
-## Video-Games-Analysis
+# Video-Games-Analysis
+
+### Project Plan and Objectives
