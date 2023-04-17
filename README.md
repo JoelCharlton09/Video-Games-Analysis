@@ -12,4 +12,10 @@ This was one of the first data projects I completed at university. The goal of t
 * JP_Sales - The number of sales (in millions) in Japan
 * Other_Sales - The number of sales (in millions) in the rest of the world
 * Global_Sales - The number of sales (in millions) worldwide
-### Project Plan and Objectives
+### Project Aims and Objectives
+The analysis conducted has two main objectives which are outlined below:
+
+* __Objective 1:__ Compare the platforms Xbox 360 and Wii by evaluation of regional sales.
+* __Objective 2:__ Investigate supervised machine learning tasks for predicting the genre of video games.
+
+To achieve these objectives nuemrous techniques are used, examples of these are: the use of visualisations, classification tasks and correlations of the variables found in the dataset.
