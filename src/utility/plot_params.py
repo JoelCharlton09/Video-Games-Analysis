@@ -2,7 +2,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from cycler import cycler
 
-colours = cycler(color=plt.get_cmap("tab10").colors)  
+colours = cycler(color=plt.get_cmap("tab10").colours)  
 
 mpl.style.use("ggplot")
 mpl.rcParams["figure.figsize"] = (20, 5)
