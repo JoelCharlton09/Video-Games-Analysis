@@ -2,7 +2,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from cycler import cycler
 
-colours = cycler(color=plt.get_cmap("tab10").colours)  
+colours = cycler(color=plt.get_cmap("tab10").colors)  
 
 mpl.style.use("ggplot")
 mpl.rcParams["figure.figsize"] = (20, 5)
@@ -16,3 +16,4 @@ mpl.rcParams["ytick.color"] = "black"
 mpl.rcParams["font.size"] = 12
 mpl.rcParams["figure.titlesize"] = 25
 mpl.rcParams["figure.dpi"] = 100
+plt.tight_layout()
